@@ -26,7 +26,7 @@ A simple rule-based customer service chatbot built with Python.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/customer-service-chatbot.git
+git clone https://github.com/nishthag805-blip/customer-service-chatbot.git
 ```
 
 ### 2. Open the project
